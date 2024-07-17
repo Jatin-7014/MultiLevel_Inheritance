@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multilevel_Inheritance", "Multilevel_Inheritance.csproj", "{FDB0E1CF-ED3D-4D05-8A3F-352AAF80F0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB0E1CF-ED3D-4D05-8A3F-352AAF80F0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB0E1CF-ED3D-4D05-8A3F-352AAF80F0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB0E1CF-ED3D-4D05-8A3F-352AAF80F0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB0E1CF-ED3D-4D05-8A3F-352AAF80F0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14326795-6B61-442E-882B-F077665E1ACC}
+	EndGlobalSection
+EndGlobal
